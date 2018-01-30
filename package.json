@@ -1,0 +1,23 @@
+{
+  "name": "autumn.css",
+  "version": "0.1.0",
+  "description": "Elegant css responsive framework in making.",
+  "homepage": "https://github.com/georoot/autumn",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georoot/autumn.git"
+  },
+  "keywords": ["css","responsive"],
+  "author": "Rahul Bhola <hello@rahulbhola.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/georoot/autumn/issues"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "homepage": "https://github.com/georoot/autumn#readme"
+}
