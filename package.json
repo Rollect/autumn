@@ -1,8 +1,10 @@
 {
   "name": "autumn.css",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Elegant css responsive framework in making.",
   "homepage": "https://github.com/georoot/autumn#readme",
+  "style": "dist/autumn.css",
+  "sass": "src/main.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
